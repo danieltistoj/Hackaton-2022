@@ -1,5 +1,5 @@
 class Justificador:
-    def _init_(self, texto, ancho=0):
+    def __init__(self, texto, ancho=0):
     
         self.texto = texto
         self.ancho = ancho
@@ -59,6 +59,6 @@ class Justificador:
 a = ["This is an ", "example of text ", "justification."]
 strA = "".join(a)
 parrafo = Justificador(strA)
-parrafo.ancho_parrafo(16)
+parrafo.ancho_parrafo(10)
 
 print(parrafo.justificador())
