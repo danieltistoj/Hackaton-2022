@@ -1,6 +1,6 @@
 <div align='center'>
   <img height="60" src="https://cdn.worldvectorlogo.com/logos/python-5.svg">
-  <h1>Hackaton-2022-Estructura</h1>
+  <h1>Hackaton-2022</h1>
   <sup>Deja tu :star: si te gusta el proyecto.</sup>
 </div>
 
