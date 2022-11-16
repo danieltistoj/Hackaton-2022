@@ -18,7 +18,7 @@ Elmer Gustavo Pú
 1535017
 </a>
 </td><td align="center" valign="top" width="11%">
-<a href="https://github.com/alextax">
+<a href="https://github.com/danieltistoj">
 <img src="https://avatars.githubusercontent.com/u/42653664?v=4" width="75" height="75"><br />
 José Daniel Tistoj Reyes
 1648817
